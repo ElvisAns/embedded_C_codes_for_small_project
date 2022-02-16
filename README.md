@@ -1,2 +1,2 @@
-# solar_tracker
-A hobby project which can be implemented in future to help maximizing solar power and efficiency of existing solar cell based system
+# Small Code
+This repo contains small codes for arduino plateform. Most of this project were writen at school for labo 
